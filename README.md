@@ -1,16 +1,7 @@
-# flutter_tire_shop_ui
+# Mobile Interface Flutter - Tire Shop
 
-A new Flutter project.
+## Introduction
+The mobile display has two pages, one for the main menu page which will display all types of vehicle tires with existing categories. then on the detail page displays the title, type, and complete description of the product. The interesting thing about the appearance of this application is the animation when sliding from one page to another.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tire Shop App Final UI
+![UI TIRE SHOP](https://user-images.githubusercontent.com/38379100/169023420-8eb9481a-722c-462e-b4a5-5962a48b32ea.png)
